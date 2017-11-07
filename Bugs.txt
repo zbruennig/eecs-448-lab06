@@ -1,0 +1,7 @@
+isEmpty always returns true
+addBack adds values to the front of the list, instead of the back
+removeFront always returns false
+removeFront and does not decrement size ever
+removeFront removes values from the back of the list
+removeBack always returns false
+removeBack does not decrement size ever
